@@ -1,0 +1,33 @@
+.Cart {
+	border: 1px solid black;
+	box-shadow: 1px 3px 5px rgba(158, 158, 158, 0.6);
+	border-radius: 5px;
+	padding: 10px;
+	width: 60%;
+	margin: 2% auto;
+	display: flex;	
+	justify-content: space-between;
+}
+
+.Cart:hover {
+	box-shadow: 1px 3px 20px rgba(233, 49, 49, 0.8);
+}
+
+
+
+.Button {
+	background-color: #db0000;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	padding: 7px;
+	min-width: 180px;
+	color: white;
+	outline: none;
+	cursor: pointer;
+	font: inherit;
+	font-weight: bold;
+}
+.Button:hover {
+	box-shadow: 1px 3px 20px rgba(233, 49, 49, 0.8);
+}

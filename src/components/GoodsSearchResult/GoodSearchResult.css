@@ -1,0 +1,25 @@
+.Result {	
+	background-color: rgb(255, 255, 255);
+	width: 23%;
+	border: 1px dotted rgb(8, 0, 0);
+	/* box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.15); */
+	box-sizing: border-box;
+	display: inline-block;
+	margin: 20px 1%;
+	border-radius: 7px;
+}
+
+.Result:hover {	
+	box-shadow: 1px 1px 40px rgba(119, 65, 245, 0.4);
+}
+
+.Result img {
+	width: 90%;
+	margin: 15px auto;
+	display: block;
+	border-radius: 8px;
+}
+
+.Result p {
+	margin: 16px;
+}

@@ -1,0 +1,13 @@
+.Page {
+	top: 0;
+	margin-top: 56px;
+}
+
+.Filtered {
+	margin: 0px auto;
+	width: 90%;
+/*	display: flex;
+	justify-content: flex-start;
+	align-items: left;
+	flex-wrap: wrap;*/
+}

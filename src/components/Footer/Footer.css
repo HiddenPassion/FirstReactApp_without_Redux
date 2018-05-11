@@ -1,0 +1,14 @@
+.Footer {
+  position: absolute;
+  /* margin: px; */
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #efefef;
+  text-align: center;
+  padding: 5px;
+}
+
+.Footer h2 {
+	margin: 0;
+}

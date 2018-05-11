@@ -1,0 +1,50 @@
+.Good {
+	margin: 0 auto;
+	width: 80%;
+	display: block;
+}
+
+.Good h1 {
+	text-align: center;
+}
+.Good img {
+	display: block;
+	width: 90%;
+	margin: 10px auto;
+	border-radius: 20px;
+}
+
+
+
+.Button {
+	background-color: transparent;
+	border: none;
+	border-radius: 5px;
+	margin: 15px;
+	padding: 7px;
+	min-width: 180px;
+	color: white;
+	outline: none;
+	cursor: pointer;
+	font: inherit;
+	
+	font-weight: bold;
+}
+
+/* .Button:first-of-type {
+	margin-left: 0;
+	padding-left: 0;
+} */
+
+.Button:disabled {
+	color: #ccc;
+	cursor: not-allowed;
+}
+
+.Success {
+	background-color: #5C9210;
+}
+
+.Danger {
+	background-color: #944317;
+}
